@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PythonDjango JavaScript php**
 
-- 👨‍💻 All of my projects are available at [https://rochdikarouali.netlify.app](https://rochdikarouali.netlify.app)
+- 👨‍💻 some of my projects are available at [https://rochdikarouali.netlify.app](https://rochdikarouali.netlify.app)
 
 - 💬 Ask me about **Computer Science**
 

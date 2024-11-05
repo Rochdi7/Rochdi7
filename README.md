@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **rochdi.karouali1234@gmail.com**
 
-- ⚡ Fun fact **The programming language Swift was partly created by Moroccan engineer Karim El Khebir, who contributed to making it fast and user-friendly. Now, it’s a favorite for iOS developers worldwide! 🌍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

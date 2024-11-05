@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rochdi Karouali</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
-- 🔭 I’m currently studying Software Engineer **Qbeeez is a Qcm Revision System that used by the students of medic in morocco**
+- 🔭 I’m currently studying Software Engineer
 
 - 🌱 I’m currently learning **PythonDjango JavaScript php**
 

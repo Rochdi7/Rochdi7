@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **rochdi.karouali1234@gmail.com**
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Rochdi7&style=flat-square)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

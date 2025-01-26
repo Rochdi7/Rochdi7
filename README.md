@@ -185,16 +185,17 @@
 </table>
 ---
 
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochdi7&show_icons=true&theme=radical&locale=en" alt="rochdi7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rochdi7&show_icons=true&bg_color=1a1b27&color=f8d847&line=8e44ad&point=1abc9c" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=radical" alt="rochdi7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=radical&background=1a1b27&ring=8e44ad&fire=f8d847" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rochdi7&show_icons=true&theme=radical&layout=compact" alt="rochdi7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochdi7&show_icons=true&bg_color=1a1b27&color=f8d847&layout=compact" alt="Top Languages">
 </p>
 
 <p align="center">

@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff" alt="Profile Header" />
-</p>
+
 <div align="center"> 
   <img src="https://github.com/mohamad-abdelkhalek/mohamad-abdelkhalek/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
-  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff" alt="Profile Header" />
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">

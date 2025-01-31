@@ -12,8 +12,9 @@
 
 
 <br>
-<img src="[https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NzcnFvMm1iOWpjYm1ndTdhNTFpaDFzaGpnMm94YTQ3NGExcjFmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)" width="20%" hight="20%" align="right">
+<img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20%" height="20%" align="right">
 <br>
+
 
 >🚀  I’m currently using **MERN, Django, PHP** <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25">
 >

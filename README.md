@@ -4,9 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=3000&pause=1000&color=FFCC00&vCenter=true&width=700&lines=Hello+Geeks+!+%E2%9D%A4;I'm+Rochdi+Karouali👋;A+Software+Engineering+Student;A+Full-Stack+Developer+&#128104;&#8205;&#128187" alt="Typing SVG">
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 

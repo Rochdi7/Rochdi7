@@ -12,19 +12,20 @@
 
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" style="vertical-align: middle; margin-left: 5px;">
 <br>
 
+> 🚀  I’m currently using **MERN, Django, PHP** 
+> <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
+>
+> 💬  Ask me about: **Web Development, Full-Stack Tools, and DevOps**
+>
+> 📫  Reach me: **rochdi.karouali1234@gmail.com**
+>
+> 🙂  Interested in: **Learning, Computer Science, Football**
+>
+> ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
->🚀  I’m currently using **MERN, Django, PHP** <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25">
->
->💬  Ask me about: **Web Development, Full-Stack Tools, and DevOps**
->
->📫  Reach me: **rochdi.karouali1234@gmail.com**
->
->🙂  Interested in: **Learning, computerscience, Football**
->
->⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rochdi7&label=Profile%20views&color=141439&style=plastic" alt="rochdi7" /> </p>

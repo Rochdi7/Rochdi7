@@ -191,7 +191,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=radical&background=1a1b27&ring=8e44ad&fire=009dc5" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=radical&background=1a1b27&ring=8e44ad&fire=f8d847" alt="GitHub Streak">
 </p>
 
 <p align="center">

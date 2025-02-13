@@ -191,8 +191,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=radical&background=1a1b27&ring=8e44ad&fire=f8d847" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=rochdi7&theme=radical&background=1a1b27&ring=8e44ad&fire=f8d847" alt="GitHub Streak">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochdi7&show_icons=true&bg_color=1a1b27&color=009dc5&layout=compact" alt="Top Languages">

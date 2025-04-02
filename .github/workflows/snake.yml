@@ -19,16 +19,15 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: rochdi7
+          github_user_name: Rochdi7
           outputs: dist/snake.svg
 
       # Commit and push the generated snake.svg
       - name: Push Snake Animation
         run: |
           mkdir -p dist
-          mv dist/snake.svg .github/workflows/snake.svg
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add .github/workflows/snake.svg
+          git add dist/snake.svg
           git commit -m "Updated snake animation"
           git push

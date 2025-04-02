@@ -9,13 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=3000&pause=1000&color=009dc5&vCenter=true&width=700&lines=Hello+Geeks+!+%E2%9D%A4;I'm+Rochdi+Karouali👋;A+Software+Engineering+Student;A+Full-Stack+Developer+&#128104;&#8205;&#128187" alt="Typing SVG">
   </a>
 </div> -->
-
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20%" hight="20%" align="right">
-<br>
 <p align="center">
   <img src="https://github.com/Rochdi7/Rochdi7/raw/main/dist/snake.svg" alt="Snake animation" />
 </p>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20%" hight="20%" align="right">
+<br>
+
 > 🚀  I’m currently using **MERN, Django, PHP** 
 > <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
 >

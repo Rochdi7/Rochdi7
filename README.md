@@ -2,13 +2,6 @@
 
 <h1 align="center">Hello There <img src="./assets/web.gif" width="50px" style="display:inline-block;">, I'm Rochdi Karouali</h1>
 <h3 align="center">I'm a curious and dedicated Full-Stack Developer with a passion for building impactful and innovative web solutions. Welcome to my GitHub corner!</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rochdi7/Rochdi7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rochdi7/Rochdi7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rochdi7/Rochdi7/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 # 💫 About Me:
 

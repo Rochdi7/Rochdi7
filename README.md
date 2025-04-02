@@ -13,7 +13,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20%" hight="20%" align="right">
 <br>
-
+<p align="center">
+  <img src="https://github.com/Rochdi7/Rochdi7/raw/main/dist/snake.svg" alt="Snake animation" />
+</p>
 > 🚀  I’m currently using **MERN, Django, PHP** 
 > <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
 >

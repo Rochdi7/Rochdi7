@@ -218,10 +218,6 @@
   </a>
 </p>
 
-<h3 align="center">✍️ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=What%20one%20programmer%20can%20do%20in%20one%20month,%20two%20programmers%20can%20do%20in%20two%20months.&author=Fred%20Brooks" alt="Fred Brooks Quote" />
-</p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">

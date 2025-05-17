@@ -13,16 +13,20 @@
   <img src="https://github.com/Rochdi7/Rochdi7/raw/main/dist/snake.svg" alt="Snake animation" />
 </p>
 
-> 🚀  I’m currently using **MERN, Django, PHP** 
->
->
-> 💬  Ask me about: **Web Development, Full-Stack Tools, and DevOps**
->
-> 📫  Reach me: **rochdi.karouali1234@gmail.com**
->
-> 🙂  Interested in: **Learning, Computer Science, Football**
->
-> ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
+<div align="center">
+
+🚀 I’m currently using **MERN, Django, PHP**  
+
+💬 Ask me about: **Web Development, Full-Stack Tools, and DevOps**  
+
+📫 Reach me: **rochdi.karouali1234@gmail.com**  
+
+🙂 Interested in: **Learning, Computer Science, Football**  
+
+⚡ **Committing code and chasing dreams, one branch at a time! ✨**  
+
+</div>
+
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rochdi7&label=Profile%20views&color=009dc5&style=plastic" alt="rochdi7" /> </p>

@@ -8,15 +8,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=3000&pause=1000&color=009dc5&vCenter=true&width=700&lines=Hello+Geeks+!+%E2%9D%A4;I'm+Rochdi+Karouali👋;A+Software+Engineering+Student;A+Full-Stack+Developer+&#128104;&#8205;&#128187" alt="Typing SVG">
   </a>
-
-🚀 I’m currently using         :  MERN, Django, PHP
-💬 Ask me about                :  Web Development, Full-Stack Tools, and DevOps
-📫 Reach me                    :  rochdi.karouali1234@gmail.com
-🙂 Interested in               :  Learning, Computer Science, Football
-⚡ Committing code and chasing :  dreams, one branch at a time! ✨
-
-
-
+# 💫 About Me:
+- 🔭 **Currently Studying**: Software Engineering.
+- 🌱 **Currently Learning**: Python Django, JavaScript, and PHP.
+- 👨‍💻 **Portfolio**: [rochdikarouali.netlify.app](https://rochdikarouali.netlify.app)
+- 💬 **Ask Me About**: Computer Science and Full-Stack Development.
+- 📫 **How to Reach Me**: rochdi.karouali1234@gmail.com
+- ⚡ **Fun Fact**: I’m always eager to learn something new about computers!
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rochdi7&label=Profile%20views&color=009dc5&style=plastic" alt="rochdi7" /> </p>
 <br>

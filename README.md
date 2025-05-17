@@ -8,24 +8,18 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=3000&pause=1000&color=009dc5&vCenter=true&width=700&lines=Hello+Geeks+!+%E2%9D%A4;I'm+Rochdi+Karouali👋;A+Software+Engineering+Student;A+Full-Stack+Developer+&#128104;&#8205;&#128187" alt="Typing SVG">
   </a>
-</div> -->
-<p align="center">
-  <img src="https://github.com/Rochdi7/Rochdi7/raw/main/dist/snake.svg" alt="Snake animation" />
-</p>
-
 <div align="center">
 
-🚀 I’m currently using **MERN, Django, PHP**  
-
-💬 Ask me about: **Web Development, Full-Stack Tools, and DevOps**  
-
-📫 Reach me: **rochdi.karouali1234@gmail.com**  
-
-🙂 Interested in: **Learning, Computer Science, Football**  
-
-⚡ **Committing code and chasing dreams, one branch at a time! ✨**  
+<pre>
+🚀 I’m currently using         :  MERN, Django, PHP
+💬 Ask me about                :  Web Development, Full-Stack Tools, and DevOps
+📫 Reach me                    :  rochdi.karouali1234@gmail.com
+🙂 Interested in               :  Learning, Computer Science, Football
+⚡ Committing code and chasing :  dreams, one branch at a time! ✨
+</pre>
 
 </div>
+
 
 
 <br>

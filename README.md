@@ -17,7 +17,7 @@
 <br>
 
 > 🚀  I’m currently using **MERN, Django, PHP** 
-> <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
+> 
 >
 > 💬  Ask me about: **Web Development, Full-Stack Tools, and DevOps**
 >

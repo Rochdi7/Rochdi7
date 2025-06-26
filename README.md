@@ -70,19 +70,7 @@
 </table>
 <br>
 
----
-
-<h2 align="center">
-  What I Code With 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-</h2>
-
-<p align="center">
-  <code><em>Crafting digital solutions with passion and precision ✨</em></code>
-</p>
-
----
-
+----
 <h3 align="center">🚀 MERN Stack</h3>
 <table align="center">
 <tr>

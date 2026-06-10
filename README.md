@@ -103,7 +103,6 @@ motto:   "Shipping fast, ranking high —
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎨 Frontend & Styling
 
@@ -168,7 +167,7 @@ motto:   "Shipping fast, ranking high —
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=rochdi7&theme=tokyonight&background=0d1117&border=30363d&ring=009dc5&fire=8e44ad&currStreakLabel=009dc5&sideLabels=009dc5" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rochdi7&theme=tokyonight&background=0d1117&border=30363d&ring=009dc5&fire=8e44ad&currStreakLabel=009dc5&sideLabels=009dc5" alt="GitHub Streak"/>
 
 </div>
 
@@ -188,13 +187,11 @@ motto:   "Shipping fast, ranking high —
 
 ## 📈 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rochdi7&theme=tokyonight" alt="Profile Summary" width="95%"/>
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rochdi7&theme=tokyonight" height="180em"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rochdi7&theme=tokyonight" height="180em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rochdi7&theme=tokyonight&utcOffset=1" height="180em"/>
 
 </div>
 

@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:009dc5,100:8e44ad&height=200&section=header&text=Rochdi%20Karouali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Django%20%7C%20PHP&descAlignY=58&descSize=18&descColor=009dc5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:009dc5,100:8e44ad&height=200&section=header&text=Rochdi%20Karouali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SEO%20Specialist%20%7C%20MERN%20%7C%20Next.js%20%7C%20Django&descAlignY=58&descSize=16&descColor=009dc5" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=009dc5&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Rochdi+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+Django+%7C+PHP+Enthusiast;Building+Dreams+One+Commit+at+a+Time+%E2%9C%A8;Open+to+Collaboration+%26+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=009dc5&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Rochdi+%F0%9F%91%8B;Full-Stack+Developer+%26+SEO+Specialist+%F0%9F%9A%80;Next.js+%7C+React+%7C+MERN+%7C+Django+%7C+PHP;Building+Fast%2C+SEO-Optimized+Web+Experiences+%F0%9F%8C%90;One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,21 +23,24 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" align="right"/>
 
 ```yaml
-name: Rochdi Karouali
-role: Full-Stack Developer
+name:     Rochdi Karouali
+role:     Full-Stack Developer & SEO Specialist
 location: Morocco 🇲🇦
+
 currently_using:
+  - Next.js / React
   - MERN Stack
   - Django
-  - PHP / Laravel
+  - PHP
 
-ask_me_about:
-  - Web Development
-  - Full-Stack Architecture
-  - DevOps Practices
+specialties:
+  - Full-Stack Web Development
+  - Technical SEO & On-Page Optimization
+  - Performance & Core Web Vitals
+  - SEO-Driven Architecture (SSR / SSG)
 
 interests:
   - Learning & Computer Science
@@ -45,8 +48,8 @@ interests:
   - Open Source
 
 contact: rochdi.karouali1234@gmail.com
-motto: "Committing code and chasing dreams,
-        one branch at a time! ✨"
+motto:   "Shipping fast, ranking high —
+          one commit at a time! ✨"
 ```
 
 <br clear="right"/>
@@ -94,12 +97,13 @@ motto: "Committing code and chasing dreams,
 
 ### ⚡ Full-Stack Core
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎨 Frontend & Styling
 
@@ -110,6 +114,7 @@ motto: "Committing code and chasing dreams,
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 💾 Databases
 
@@ -120,6 +125,7 @@ motto: "Committing code and chasing dreams,
 
 ### ☁️ Cloud & Deployment
 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -134,6 +140,15 @@ motto: "Committing code and chasing dreams,
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🔍 SEO & Analytics
+
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Semrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=for-the-badge&logo=ahrefs&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-00BCD4?style=for-the-badge&logoColor=white)
+![Schema.org](https://img.shields.io/badge/Schema.org-1A73E8?style=for-the-badge&logoColor=white)
 
 </div>
 
